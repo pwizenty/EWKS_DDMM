@@ -1,3 +1,1 @@
-# EWKS-BBRE
-
 # EWKS_DDMM
